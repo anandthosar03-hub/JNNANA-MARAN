@@ -65,7 +65,7 @@ pip --version
 
 ## 2) Get the project
 ```powershell
-git clone https://github.com/<your-username>/JannanaMaran.git
+git clone https://github.com/anandthosar03-hub/JNNANA-MARAN.git
 cd JannanaMaran
 ```
 
@@ -126,7 +126,7 @@ pip3 --version
 
 ## 2) Get the project
 ```bash
-git clone https://github.com/<your-username>/JannanaMaran.git
+git clone https://github.com/anandthosar03-hub/JNNANA-MARAN.git
 cd JannanaMaran
 ```
 
