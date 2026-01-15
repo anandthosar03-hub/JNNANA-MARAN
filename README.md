@@ -2,10 +2,9 @@
 JannanaMaran is a cross-platform cybersecurity host recon &amp; posture reporting tool with CLI + Tkinter GUI. It generates a JSON report containing OS info, network snapshot, firewall status, and an optional local secrets hygiene scan for authorized assessments and purple-team evidence collection.
 
 
-## GitHub repo description (short)
+##  JNNANA-MARAN repo description 
 **JannanaMaran** is a cross-platform cybersecurity host recon & posture reporting tool with **CLI + Tkinter GUI**. It generates a **JSON report** containing OS info, network snapshot, firewall status, and an optional **local secrets hygiene scan**—for **authorized** assessments and purple-team evidence collection.
 
-## GitHub “About” (very short)
 CLI + GUI host recon & posture reporter (authorized use). JSON output, optional secrets hygiene scan.
 
 ---
@@ -185,4 +184,4 @@ Use only on systems and directories you **own** or where you have **explicit wri
 The secrets scan is a hygiene helper and may produce false positives; review findings carefully.
 
 
-If you want, I can also generate a matching **GitHub Actions** workflow (`.github/workflows/ci.yml`) to run basic checks on **Windows + Ubuntu** automatically when you push.
+
